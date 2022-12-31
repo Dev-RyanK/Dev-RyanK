@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Dev-RyanK
 - 👀 I’m interested in **Frontend development**
-- 🌱 I’m currently learning **React, **
+- 🌱 I’m currently learning **JavaScript, React**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   - dev.ryan.kwon@gmail.com
